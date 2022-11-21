@@ -1,0 +1,5 @@
+requests==2.25.1
+tornado==6.1
+asyncio==3.4.3
+websockets==8.1
+websocket-client==1.2.1

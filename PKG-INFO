@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: fyers_apiv2
+Version: 2.0.5
+Summary: Fyers trading APIs.
+Home-page: https://github.com/FyersDev/fyers-api-py
+Author: Fyers-Tech
+Author-email: support@fyers.in
+License: UNKNOWN
+Description: README
+        ========
+        
+        This module is installed via pip:
+        
+        ```
+        pip install fyers-api
+        ```
+        
+        Packages Required
+         - json
+         - requests
+         - tornado 
+        
+        For an overview of Fyers-api please refer to the documentation at [fyers-api-docs](http://apidashboard.fyers.in/api-docs)
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
